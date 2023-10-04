@@ -2,7 +2,7 @@
 
 This is a facebook clone built with HTML and Css
 
-## Team Memberssdf
+## Team Members
 
 - Eleazer
 - Liza
